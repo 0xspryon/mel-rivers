@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mel-rivers/static/css/main.412f7ad3.chunk.css",
+    "main.js": "/mel-rivers/static/js/main.10a3b99b.chunk.js",
+    "main.js.map": "/mel-rivers/static/js/main.10a3b99b.chunk.js.map",
+    "runtime-main.js": "/mel-rivers/static/js/runtime-main.488c57f6.js",
+    "runtime-main.js.map": "/mel-rivers/static/js/runtime-main.488c57f6.js.map",
+    "static/js/2.1768474f.chunk.js": "/mel-rivers/static/js/2.1768474f.chunk.js",
+    "static/js/2.1768474f.chunk.js.map": "/mel-rivers/static/js/2.1768474f.chunk.js.map",
+    "index.html": "/mel-rivers/index.html",
+    "precache-manifest.07773cd78983009c3e5fd27d118eff90.js": "/mel-rivers/precache-manifest.07773cd78983009c3e5fd27d118eff90.js",
+    "service-worker.js": "/mel-rivers/service-worker.js",
+    "static/css/main.412f7ad3.chunk.css.map": "/mel-rivers/static/css/main.412f7ad3.chunk.css.map",
+    "static/js/2.1768474f.chunk.js.LICENSE.txt": "/mel-rivers/static/js/2.1768474f.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/mel-rivers/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/mel-rivers/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/mel-rivers/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/mel-rivers/static/media/lumin-min.379bad94.png",
+    "static/media/up-arrow-circle.d6c4e78d.svg": "/mel-rivers/static/media/up-arrow-circle.d6c4e78d.svg",
+    "static/media/yourspace-min.png": "/mel-rivers/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.488c57f6.js",
+    "static/js/2.1768474f.chunk.js",
+    "static/css/main.412f7ad3.chunk.css",
+    "static/js/main.10a3b99b.chunk.js"
+  ]
+}
